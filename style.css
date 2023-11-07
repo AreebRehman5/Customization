@@ -26,11 +26,11 @@ ul {
   }
   
   li a:hover:not(.active) {
-    background-color: #ccc
+    background-color: #fff
   }
   
   .active {
-    background-color: #04AA6D;
+    background-color: #fff;
   }
 
   .card-list {
@@ -127,12 +127,12 @@ ul {
   }
  
   p{
-    font-size: 20px;
+    font-size: 15px;
     text-align: center;
     font-weight: bolder;
   }
   h1{
-    font-size: 25px;
+    font-size: 15px;
   }
 
   input[type=text], select, textarea {
